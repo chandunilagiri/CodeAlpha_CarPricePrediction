@@ -137,4 +137,4 @@ The Random Forest Regressor successfully predicted car prices with high accuracy
 
 ## Author
 
-Nandini
+Purna Chandra Rao Nilagiri
